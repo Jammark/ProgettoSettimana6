@@ -1,0 +1,62 @@
+header img {
+  height: 40px;
+  width: auto;
+}
+
+#bell .col {
+  width: 16px;
+  height: 16px;
+}
+
+.icon {
+  width: 50px !important;
+  height: 50px;
+}
+
+#next .text {
+  font-size: 0.7rem;
+}
+
+.user {
+  height: 25px;
+  width: auto;
+}
+
+.name {
+  font-size: 0.8rem;
+}
+
+#hero {
+  background-color: #7550fe;
+}
+#hero .btn-h-1 {
+  background-color: #1acb98;
+  color: white;
+}
+#hero .btn-h-2 {
+  background-color: white;
+  color: black;
+}
+#hero h1 {
+  color: white;
+}
+#hero p {
+  color: rgba(200, 200, 200, 0.5);
+}
+
+#bell {
+  background-color: lightgray;
+}
+
+.icon {
+  background-color: #ffeeda;
+}
+
+#bottom {
+  background-color: #f5f4f8;
+}
+
+#bell {
+  height: 40px;
+  width: 40px;
+}/*# sourceMappingURL=style.css.map */

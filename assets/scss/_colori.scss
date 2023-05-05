@@ -1,0 +1,38 @@
+$colorHeroBg : #7550fe;
+$colorGreen : #1acb98;
+$colorGreyBG : #f5f4f8;
+$colorSalmon : #ffeeda;
+
+#hero{
+    background-color: $colorHeroBg;
+
+    .btn-h-1{
+        background-color: #1acb98;
+        color: white;
+    }
+    .btn-h-2{
+        background-color: white;
+        color: black;
+    }
+
+    h1 {
+        color: white;
+    }
+
+    p{
+        color: rgba(200, 200, 200, 0.5);
+    }
+}
+
+#bell{
+    background-color: lightgray;
+}
+
+.icon{
+    background-color: $colorSalmon;
+}
+
+#bottom{
+    background-color: $colorGreyBG;
+}
+
